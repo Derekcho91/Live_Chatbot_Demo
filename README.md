@@ -2,8 +2,8 @@
 ### Brief
 Hello, and welcome to the Chatbot demo that my organization didn't want me to present.
 So a little bit of background, On last Friday (12/04/2024), I was asked to do a Chatbot for a POC/Demo to my department on possible utilizations of LLMs.
-After rushing it over the weekend, I presented it to my manager and the department head, who decided not to present it for fear of showing up the Tech Team.
-To not let the effort go to waste, I decided to put it up on github after I removed all the PII. Please take a gander.
+After rushing it over the weekend, I presented it to my manager and the department head, who decided not to present it for unknown reasons.
+To not let the effort go to waste, I decided to put it up on github after I removed all the PII. Please take a look.
 
 ### Implementation
 It is actually a simple implementation of using LangChain libraries and Chainlit as a front end. I used Langchain to build a vector store with my company's FAQ Website. Also integrated Tavily for more general searches.
