@@ -12,7 +12,6 @@ It is actually a simple implementation of using LangChain libraries and Chainlit
 1. Function for PDF Vector Search. Tried using the Langchain Library Function but it does not seem to be returning the right vectors. Might have to use a custom function for this.
 2. Long Term Chat History Function. Don't want to spend money on storage so might just end up using a Log Folder. My organization has access to Azure Databricks so might try that.
 3. Claude Intergation. Seems to be the best out of the bunch but Langchain support is limited.
-4. Azure Copilot Intergation. I don't really like the model to be honest but Microsoft's relationship with us is like Oracle's
 
 
 ### How to run
